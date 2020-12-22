@@ -1,4 +1,5 @@
-book_filename: "SoilTaxonomyBook"
+book_filename: "2020SoilTaxonomyBook"
+output_dir: "."
 delete_merged_file: true
 language:
   ui:
