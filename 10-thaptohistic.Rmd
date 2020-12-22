@@ -1,5 +1,6 @@
 # Proposed Changes to Thapto-Histic Subgroups and Adding Thapto-Humic Criteria 
-(5/4/20; PDF; 1.16 MB)
+
+[(5/4/20; PDF; 1.16 MB)](https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1541217&ext=pdf)
 
 ## Recommendation
 
@@ -61,8 +62,8 @@ The placement of these new taxa with respect to soil moisture (sub)classes is cr
  
  - Andic/Vitrandic: low bulk density/ashy surface 
  
- - Aquic Cumulic/Fluvaquentic/Aquic: aquic conditions within 100cm 
+ - Aquic Cumulic/Fluvaquentic/Aquic: Aquic Conditions within 100cm 
  
- - Cumulic/Fluventic: slope <25%: irregular decrease in Holocene-age OC 
+ - Cumulic/Fluventic: slope <25%: irregular decrease in Holocene-age organic carbon
  
  - Pachic/Cumulic: thick dark surface 

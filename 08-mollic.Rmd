@@ -1,5 +1,6 @@
 # Simplify the Mollic Epipedon 
-(2/6/20; PDF; 278 KB)
+
+[(2/6/20; PDF; 278 KB)](https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1541215&ext=pdf)
 
 ## Recommendation
 
@@ -41,7 +42,7 @@ Review of specific changes proposed, by "Rule Number" in the proposed Mollic epi
 
    *	Example Series: Tierra, Positas, Reiff, Jacinto, Honn, Keefers, Yokohl, Jahant, Sycamore, Zamora, Brentwood, Stomar, Camarillo, Hueneme, Pleasanton, Bellyspring
 
- *	To my knowledge, the slickest way to approach these questions is something like the PostgreSQL OSD fulltext search created by Dylan Beaudette: http://soilmap2-1.lawr.ucdavis.edu/osd-search/, with those results then coupled with the fetchOSD function accessible through the soilDB R package – which provides facilities for accessing parsed OSD data for analysis
+ *	To my knowledge, the slickest way to approach these questions is something like the PostgreSQL OSD full-text search created by Dylan Beaudette: http://soilmap2-1.lawr.ucdavis.edu/osd-search/, with those results then coupled with the fetchOSD function accessible through the soilDB R package – which provides facilities for accessing parsed OSD data for analysis
 
  *	The traditional way of doing this querying the SC database for specific taxa, and then text-mining the various sections of OSDs manually (or using soilDB). It is not clear that the authors did this – I would want to know what groups of soils they queried, and more specific examples of things they found. 
 
@@ -69,20 +70,19 @@ Review of specific changes proposed, by "Rule Number" in the proposed Mollic epi
 
   *	The authors did this analysis for all the KSSL data -- so they should have included a graph (like Appendix 2) of this data along with proposed thresholds. Most reviewers would not necessarily be able to thoroughly evaluate this proposal without at least some graphical representation
 
-  *	The proposed pH thresholds are ‘conservative’ in that they correspond with median pH by either method at ~80% NH4OAc base saturation (Appendix 2. California KSSL data, upper 25cm mineral soil material [meeting organic carbon requirement]; n=916 pedons, 2043 horizons).   
+  *	The proposed pH thresholds are conservative in that they correspond with median pH by either method at ~80% ammonium acetate base saturation at pH 7 (Appendix 2. California KSSL data, upper 25cm mineral soil material [meeting organic carbon requirement]; n=916 pedons, 2043 horizons).  
 
   *	I think these surrogate criteria could result in more confusion – even though they are well protected against “false positives” for mollic as the data show.
 
   *	As proposed, 1:1 soil water and CaCl2 would be on equal footing, but use of both methods in parallel has not been adequately justified in proposal. 
 
-  *	The proposed pH criteria could not “invert” to identify Umbric, and you would need conservatively acidic thresholds on the umbric criteria 
-  	which would leave a “pH-indeterminant” area in the range where many mineral soils are (say, pH ~5.5-6.5).
+  *	The proposed pH criteria cannot invert to identify Umbric; you would need conservatively _acidic_ thresholds in the Umbric criteria which would leave a pH-indeterminant area in the intermediate range say, pH ~5.5-6.5. We know this to be the case -- that the relationship is not as viable in that range.
 
-  *	Protecting against “false positive for mollic” leads to identification of more umbrics when color, OC, thickness are otherwise met and base saturation data are not available
+  *	Protecting against false positive for Mollic epipedons leads to identification of more Umbric epipedons when color, organic carbon, thickness are met and base saturation data are not available, these are supposed to be mutually exclusive.
 
-  *	Use of surrogate data is a separate, important issue that needs to be dealt with all the time in routine soil survey – and I think there is room to develop standards and guidelines for how that is done when the goal is supporting classification. However, this reviewer believes that ultimately these models and relationships should be developed on a local basis and not formally encoded in Soil Taxonomy. 
+  *	Use of surrogate data is a separate, important issue that needs to be dealt with all the time in routine soil survey – and I think there is room to develop standards and guidelines for how that is done when the goal is supporting classification. However, this reviewer believes that these models and relationships should be developed on a local basis and not formally encoded in Soil Taxonomy unless they are "universal"
 
-  *	The net effect of surrogates is short circuiting the intended logic of the Keys in lieu of data – which ultimately detracts from later efforts to improve the Keys. This especially is an issue where the surrogates could lead to inconsistent results with historic meanings, or depending on the lab/field method used, or in presence of “optional” missing data with OR operator in the key logic. The case of having all three possible measurements and them not “agreeing” with one another is another possible wrinkle. I presume base saturation would take precedence if you had it.
+  *	The net effect of surrogates is short circuiting the intended logic of the Keys in lieu of data – which ultimately detracts from later efforts to improve the Keys. This especially is an issue where the surrogates could lead to inconsistent results with historic meanings, or depending on the lab/field method used, or in presence of optional/missing data with an OR operator in the key logic. The case of having all three possible measurements and them not “agreeing” with one another is another possible wrinkle. I presume base saturation would take precedence if you had it.
 
   *	I think the secondary carbonates criterion is OK, but worry about the possible effects of recent liming + lack of equilibrium on effervescence?  
 
@@ -92,7 +92,7 @@ Review of specific changes proposed, by "Rule Number" in the proposed Mollic epi
 
 ## Rule 6 
 
-  * I support the intent of the proposed minimum thickness changes – I think the criteria are too complicated as is. I don’t like minimum thickness depending on variably on subsurface diagnostic features or on their bottom depths (e.g. argillic bottom depth) -- this winds up being problematic for a variety of reasons related to data quality at depth.
+  * I support the intent of the proposed minimum thickness changes – I think the criteria are too complicated as is. I don’t like minimum thickness depending on variably on subsurface diagnostic features or on their bottom depths (e.g. Argillic bottom depth) -- this winds up being problematic for a variety of reasons related to data quality at depth.
 
     *	That said, it is likely that the increase of thickness requirement will split some existing series definitions – not necessarily in a “meaningful” way in terms of mapping. 
 
@@ -100,7 +100,7 @@ Review of specific changes proposed, by "Rule Number" in the proposed Mollic epi
     
     *	For each series/components spanning the new thickness threshold a decision would need to be made about taxon placement – theoretically with some of the supporting pedons being re-correlated if needed.
 
-  *	‘Marginal’ Mollisols that don’t range much beyond 25cm thick mollic would become Alfisols, Inceptisols, Entisols, etc. based on dominant condition type logic – this might be quite common in my area of the world with the few true Mollisols on the high end of RIC being non-limiting, similar soil inclusions when you consider their areal extent
+  *	Marginal Mollisols (that don’t range much/at all beyond 25cm thick epipedon) would become Alfisols, Inceptisols, Entisols, etc. based on dominant condition type logic – this might be quite common in my area of the world with the few true Mollisols on the high end of RIC being non-limiting, similar soil inclusions when you consider their areal extent
 
   *	Conversely, soils that tend to have thicker-than-25 mollic materials would be Mollisols, possibly with a couple inches on lower-end series RIC truncated.
 
@@ -119,34 +119,34 @@ Review of specific changes proposed, by "Rule Number" in the proposed Mollic epi
 
   *	We have Fluidity Class (in Field Book for Describing and Sampling Soils, pages 2-65 and 2-105). 
 
-  *	I can’t really comment from experience on the relative utility of n value versus ‘Fluidity Class’ – I have never "measured" the n value. Just used the common guidelines about how a handful of soil flows.
+  *	I can’t really comment from experience on the relative utility of n value versus Fluidity Class – I have never "measured" the n value. Just used the common guidelines.
 
-  *	Suggestion: replace criterion with ‘Fluidity Class is nonfluid’ --  achieve the desired effect using existing standards, and might better reflect how n value is estimated in practice? 
-
+  *	Suggestion: replace criterion with _Fluidity Class is non-fluid_ to achieve the desired effect using existing standards
+  
 ## Other notes
 
- *	“component horizon or layer” = “subhorizon” (semantics)
+ *	"component horizon or layer" = "subhorizon" (semantics)
 
  *	Footnote 1: this footnote needs to be clarified
  
  * So, properties of upper 18cm are still relevant for water/wind/HTM? Or should this mixed thickness be 25cm to match the minimum thickness? 
   
- * Also, “weighted average sample” – depth weighted average? Volume weighted average (I.e accounting for bulk density)? “as if” it were physically mixed? Is this mathematical or physical mixing? – and what are the weights?
+ * Also, "weighted average sample" – depth weighted average? Volume weighted average (I.e accounting for bulk density)? "as if" it were physically mixed? Is this mathematical or physical mixing? – and what are the weights?
   
  * I support the mathematical mixing – but it has its problems when the overlying or underlying material would not meet mollic on its own.
   
-   - Personally, I question the value of mixing of non-mollic and mollic materials to result in a positive mollic determination. Do we really need to include these cases in mollic epipedon? It is important for historic purposes to ensure same classification of ag and non-ag usage of same "soil type," but in my mind it seems it has potential to dilute the Mollic concept and/or be abused to make more Mollisols in floodplains.
+   - Personally, I question the value of mixing of non-mollic and mollic materials to result in a positive mollic determination. Do we really need to include these cases in mollic epipedon? It is important for historic purposes to ensure same classification of agricultural and non-agricultural usage of same "soil type," but in my mind it seems it has potential to dilute the Mollic concept and/or be abused to make more Mollisols in floodplains.
    
    - At a minimum, the reasoning behind this footnote should be expanded on in the revised proposal. 
    
-   - I think we could exclude recent deposits up to a certain (thin) thickness from evaluation for epipedon criteria. Beyond that point we need to ask ourselves if we have something that is more like a Mollic *fluvent/Fluvaquent in that geomorphic position. 
+   - I think we could exclude recent deposits up to a certain (thin) thickness from evaluation for epipedon criteria. Beyond that point we need to ask ourselves if we have something that is more like a Mollic *fluvents/Fluvaquents in that geomorphic position. 
    
-   - Technically, stratification or rock structure of the recently deposited material precludes an epipedon, and where a surface is buried you have criteria for fluventic/cumulic irregular carbon distribution with increasing depth. Just because you mix away the evidence of this doesn't change the geologic evidence of how that material got there; in an undisturbed case it would be described differently than after tillage.
+   - Technically, stratification or rock structure of the recently deposited material precludes an epipedon, and where a surface is buried you have criteria for Fluventic/Cumulic irregular carbon distribution with increasing depth. Just because you mix away the evidence of this doesn't change the geologic evidence of how that material got there; in an undisturbed case it would be described differently than after tillage.
 
  * Footnote 2: The only method for determination of base saturation for Mollic epipedon is the base saturation based on CEC and extractable cations in ammonium acetate at pH 7. 
  
-   - What “laboratory analysis by proximal sensors in the field” is approved for this purpose?
+   - What "laboratory analysis by proximal sensors in the field" is approved for this purpose?
  
  * Footnote 3: I recognize the potential value of harmonizing the strange handling of possible (lack of) Mollic epipedons in Albolls – but it does not have a place in this “simplifying” proposal. 
 
-   - The proposed change mirrors the criteria for Albolls, which are allowed to have horizons that would be a mollic epipedon if it were not for an albic horizon within 18 cm. Albic could be as thin as 1cm, per definition. Seems like the thickness requirement is only relevant to Albolls suborder, so we don’t need it in the mollic epipedon definition. 
+   - The proposed change mirrors the criteria for Albolls, which are allowed to have horizons that would be a Mollic epipedon if it were not for an Albic Horizon within 18 cm. Albic could be as thin as 1cm, per definition. Seems like the thickness requirement is only relevant to Albolls suborder, so we don’t need it in the Mollic Epipedon definition. 

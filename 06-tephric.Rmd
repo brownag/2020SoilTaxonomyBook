@@ -1,35 +1,36 @@
 # Tephric Epipedon 
-(2/20/20; PDF; 5.33 MB)
+
+[(2/20/20; PDF; 5.33 MB)](https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1522015&ext=pdf)
 
 ## Recommendation
 
 **Recommendation:** Return to author (date: 2020/02/19)
 
-Overall, I think this is a cool idea and do not doubt the concept’s value. I think the significant impacts of tephra on use and management of some Aridisols is made clear from the proposal. That said, the proposed criteria are quite broad and are likely to lead to identification of tephric epipedons in many places outside those discussed.
+Overall, I think this is a cool idea and do not doubt the concept’s value. I think the significant impacts of tephra on use and management of some Aridisols is made clear from the proposal. That said, the proposed criteria are quite broad and are likely to lead to identification of Tephric epipedons in many places outside those discussed.
 
 There is a need for a working group to address the impacts outside of proposer’s region.
 
 I think that the current exclusion of other epipedons creates more taxonomic problems than it solves. It may be that was done to ensure historic taxonomies would key out to the new Tephrids? 
 
-If the goal is to just “slip this in” to allow for new suborder/subgroup distinctions within the Aridisols, overriding historic epipedon assignments by mutual exclusion probably needs to be avoided since epipedons are criteria for several soil orders. Developing clear soil property criteria for “tephric materials” will be necessary.
+If the goal is to just “slip this in” to allow for new suborder/subgroup distinctions within the Aridisols, overriding historic epipedon assignments by mutual exclusion probably needs to be avoided since epipedons are criteria for several soil orders. Developing clear soil property criteria for "Tephric materials" will be necessary.
 
 I am not disputing that tephra-based soil materials have unique characteristics that warrant their separation, especially in the Aridic SMR. I just think the proposed criteria need to be defined more explicitly. Therefore, I am suggesting this proposal needs revision.
 
-## What would be recorded on the 232 or in NASIS to back up a tephric epipedon assignment?
+## What would be recorded on the 232 or in NASIS to back up a Tephric epipedon assignment?
 
  - Parent material = tephra would be a site level attribute… and assuming Site Parent Material depths were populated one could determine intersection with horizons -- but what about horizon level attributes?
 
  - % volume of cinders or bombs is a horizon level attribute that would be recorded as fragments
 
-  - but may not apply to all tephrics; the >50% by volume threshold might be more readily determined for cinders and bombs than fine/coarse ash
+  - Fragment volume does not apply to all Tephric epipedons; the >50% by volume threshold might be more readily determined for cinders and bombs than fine/coarse ash
 
   - Would a thickness requirement be better for finer materials? Similar to Andisols order criteria for ASP thickness?
 
-  - How commonly are potential tephrics devoid of coarser fragments / comprised of only fine/coarse ash? Could ASHY texture modifier be used to identify the finer materials in horizon data where fragments are absent (or have volumes <50%)?
+  - How commonly are potential Tephrics devoid of coarser fragments / comprised of only fine/coarse ash? Could ASHY texture modifier be used to identify the finer materials in horizon data where fragments are absent (or have volumes <50%)?
 
-  - For comparison: for the mollic epipedon one records structure, color and carbon to “prove” it is mollic. We often use color in lieu of carbon data for field use. I am struggling to find similar types of categorical/quantitative criteria for the tephric.
+  - For comparison: for the Mollic epipedon one records structure, color and carbon to “prove” it is "mollic." We often use color in lieu of carbon data for field use. I am struggling to find similar types of categorical/quantitative criteria for the Tephric epipedon that uniquely distinguish it from e.g. Mollic and Melanic.
 
-  - While I think I understand the intent of Criterion #1 I don’t think it unambiguously defines “tephric materials” – this leads me to my second main point.
+  - While I think I understand the intent of Criterion #1 I don’t think it unambiguously defines "Tephric materials" – this leads me to my second main point.
 
 
 ## On use of “rock structure” or “parent structure” in criteria
@@ -46,39 +47,39 @@ I am not disputing that tephra-based soil materials have unique characteristics 
 > Recent alluvial or eolian deposits that retain most of the original rock structure are not considered to have A horizons unless they are cultivated 
 > (KST p. 335)
 
-By definition, epipedons can’t have rock structure in “most” of their volume. So, either we are defining a novel soil material derived from tephra (that is not the material we recognize in melanics/andic soil properties/vitrandic/andic subgroups) or we are redefining what epipedons are. 
+By definition, epipedons can’t have rock structure in “most” of their volume. So, either we are defining a novel soil material derived from tephra (that is not the material we recognize in Melanic/Andic/Vitrandic) or we are redefining what Epipedons are. 
 
 I think the intent of the proposal was to do the former – and I am supportive of that goal. 
 
-Are subhorizons of tephric epipedons commonly designated as A horizons or C horizons? It seems like they should be “A” most of the time to be an "epipedon." But fresh material taht has "rock structure" would probably be designated C.
+Are subhorizons of Tephric epipedons commonly designated as A horizons or C horizons? It seems like they should be “A” most of the time to be an "Epipedon." But fresh material that has "rock structure" would probably be designated C.
 
- - My suggestion would be to drop any discussion of rock/parent structure -- as that is contraindicated with the epipedon definition. Require a minimum volume/thickness of “tephric materials" - which would of course need to be defined explicitly like all other _soil_ materials (such as albic materials, gelic materials, etc.). 
+ - My suggestion would be to drop any discussion of rock/parent structure -- as that is contraindicated with the epipedon definition. I do not think you have a strong case for an epipedon based on the fact that these things have rock structure -- if the geological layering is the major factor, perhaps it should actually be designated C, with some sort of A or V horizon mantled within it. 
+ 
+ - Require a minimum volume/thickness of Tephric materials - which would of course need to be defined explicitly like all other _soil_ materials (such as Albic Materials, Gelic Materials, etc.). Or perhaps what you are describing is a specific name for the layers "fresh" materials that are specifically excluded under the Melanic definition, allowing it to be discontinuous.
 
- - I imagine this could include their glassy/short-range order mineralogy reflective of rapid cooling with low degree of weathering, other physical attributes (gas vesicles, roots in grain pores), mode of deposition etc.
+ - I imagine this definition could include their glassy/short-range order mineralogy reflective of rapid cooling with low degree of weathering, other physical attributes (gas vesicles, roots in grain pores), mode of deposition etc. It may not have elevated optical density, or other indices of ASP, indicating the relative "freshness." It seems important that places that get correlated need to exhaust all the possibilities of these being Andisols.
 
-## On distinction of tephric materials from vitrandic/andic soil properties
+## On distinction of Tephric materials from Vitrandic/Andic soil properties
 
  - Chris F. had an excellent suggestion to investigate the WRB definition of Tephric –
 
  - I think WRB provides a definition that could be emulated. 
  
- - Note that this uses the volume of glassy minerals, but excludes andic/vitric materials; this contrasts with the tephric epipedon proposal as reviewed here. As defined, tephric epipedon could include soil materials with ASP. 
+ - Note that this uses the volume of glassy minerals, but excludes Andic and Vitric materials; this contrasts with the Tephric epipedon proposal in the US reviewed here. As defined, Tephric epipedon could or would include soil materials with ASP. 
  
    - https://lorexplor.istex.fr/urban_soils.en/index.php/Tephric_material_%28WRB%29#Description
 
- - If proposal were revised to exclude ASP/vitrandic materials, the criteria for separating them would probably require justification based on andic soil properties limits / lab data.
+ - If proposal were revised to exclude ASP/Vitrandic materials, the criteria for separating them would probably require justification based on Andic Soil Properties limits / lab data.
 
- - I don’t think it is a problem to have overlap between Tephric epipedon and ASP
-
- - It seems like Tephric->vitrandic->andic->ASP represents a pedogenic gradient in terms of time and/or climate (for given PM) and would intermingle commonly.
+ - It seems like Tephric -> Vitrandic -> Andic -> ASP represents a pedogenic gradient in terms of time and/or climate (for given PM) and would intermingle commonly.
 
  - To my limited understanding, the Tephric is important where the physical occlusion of the subsurface is major player, whereas in ASP the relative higher degree of chemical weathering gives unique physical and chemical properties.
 
 ## Additional comment/questions/thoughts:
 
- - Can a tephric epipedon occur underneath organic soil materials / folistic or histic epipedons? 
+ - Can a Tephric epipedon occur underneath organic soil materials / Folistic or Histic epipedons? 
 
-   - I can think of this being relevant for some of our forested areas in northeast CA with recent (Andisol and non-Andisol) pumice deposits – modoc plateau / medicine lake area -- but recognize the OSM accumulation is unlikely to occur in Aridisols
+   - I can think of this being relevant for some of our forested areas in northeast CA with recent (Andisol and non-Andisol) pumice deposits
 
  - Does the entire thickness of the epipedon need to be continuous from the upper bound (as implied in definition)
  

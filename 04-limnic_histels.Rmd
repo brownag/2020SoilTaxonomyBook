@@ -1,6 +1,6 @@
 # Limnic Subgroups for Histels 
 
-(4/6/20; PDF; 934 KB)
+[(4/6/20; PDF; 934 KB)](https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1569025&ext=pdf)
 
 ## Recommendation
 
@@ -13,17 +13,17 @@ A precedent has been set for this with the recent nationally-accepted (2016) pro
 
 Current wording in the key requires (criteria for) a Limnic subgroup (in the Histosols) in order to use a mineralogy class, so the criteria the authors have proposed (mirroring Histosols) make sense in that framework. However, it seems like the proposal was specifically focused on the _coprogenous_-Limnic variety of organic Gelisols.
 
-I am not sure we have enough other examples in Histels with limnic materials that are _non-coprogenous_ to make a general change. While I have never worked in Alaska, I can imagine a variety of possible environments that could generate Limnic subgroups; some of which are not necessarily associated with the shorline/avian coprogenous case detailed in the proposal. The marginal examples could have relatively little of this material (say, a few 1-2cm thick streaks) depending on the types of regular organic soil material and depositional environments they co-occur with. 
+I am not sure we have enough other examples in Histels with limnic materials that are _non-coprogenous_ to make a general change. While I have never worked in Alaska, I can imagine a variety of possible environments that could generate Limnic subgroups; some of which are not necessarily associated with the shoreline/avian coprogenous case detailed in the proposal. The marginal examples could have relatively little of this material (say, a few 1-2cm thick streaks) depending on the types of regular organic soil material and depositional environments they co-occur with. 
 
-## On the relative difficulty of assesing cumulative >5cm thickness of limnic materials in Gelisols versus Histosols:
+## On the relative difficulty of assessing cumulative >5cm thickness of limnic materials in Gelisols versus Histosols:
 
 The cumulative >5cm thickness requirement is probably more difficult to assess in Histels compared to Histosols. As written criterion modeled after Histosols requires exposure of the _whole_ control section to know for sure that more or less than 5cm of limnic layers are present.
 
 Their proposed criteria parity with the Histosols makes sense -- except for observation issues related to permafrost. This is, of course, the key difference between Histels and Histosols.
 
-I am not sure that identification of the materials in marginal limnic cases is as straightforward as suggested in the proposal (in lieu of lab data or really good exposure of the soil) – so this could turn into a bit of a materials identification problem.
+I am not sure that identification of the materials in marginal Limnic cases is as straightforward as suggested in the proposal (in lieu of lab data or really good exposure of the soil) – so this could turn into a bit of a materials identification problem.
 
-## On directions for this proposal:
+## Suggestions
 
 There could be value in having some sort of a mineralogy class to capture that extreme “eutrophic” case that we discussed on the call. 
 
@@ -31,4 +31,4 @@ I am empathetic to the field concerns about not being able to map this accuratel
 
 I think that these properties might be better addressed at the family level (in something like mineralogy class) rather than in more subgroup level taxa that could wind up being difficult or impractical to identify.
 
-That way individuals who are interested / need to look at these soils in full detail have a framework to capture it but it doesn’t impose challenging-to-assess limitations onhigher order classification of Gelisols. 
+That way individuals who are interested / need to look at these soils in full detail have a framework to capture it but it doesn’t impose challenging-to-assess limitations on higher order classification of Gelisols. 

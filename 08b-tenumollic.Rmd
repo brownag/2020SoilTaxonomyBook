@@ -1,5 +1,6 @@
 # Proposal to Establish the Tenumollic Epipedon
-(2/6/20; PDF; 278 KB)
+
+[(2/6/20; PDF; 278 KB)](https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1541216&ext=pdf)
 
 ## Recommendation
 
@@ -9,7 +10,7 @@ Following the changes to minimum thickness of the mollic epipedon proposed in th
 
 However, only a small fraction of Mollisols who previously met thickness criteria, but utilized the sliding scale thickness requirement, would be retained in a single taxonomic group under proposed new criteria – even with this new epipedon. Redefining something at a high level that traditionally is more along the lines of series criteria is a bit of a problem for re-correlation. 
 
-The tenumollic epipedon does little to buffer the effects of the proposed changes in the parallel proposal to “Simplify the Mollic Epipedon”. In some cases, the combination of the two splits existing series concepts at the suborder or even order level.
+The Tenumollic epipedon does little to buffer the effects of the proposed changes in the parallel proposal to “Simplify the Mollic epipedon”. In some cases, the combination of the two splits existing series concepts at the suborder or even order level.
 
 The combination of changes in thickness and material requirements, as well non-specific changes being made to the Mollisols key (is this at the Great Group or the Suborder level?) results in mostly hard-to-resolve correlation problems. It is not clear that the new taxa based on this epipedon would offer any significant interpretive benefit over the Lithic subgroups or shallow families that already are correlated within the Mollisols. 
 

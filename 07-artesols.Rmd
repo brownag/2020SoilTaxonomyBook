@@ -1,5 +1,6 @@
 # Artifact Soils / Artesols Order 
-(2/6/20; PDF; 525 KB)
+
+[(2/6/20; PDF; 525 KB)](https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1541214&ext=pdf)
 
 ## Recommendation
 
@@ -7,7 +8,7 @@
 
 I think that it is exciting to be reviewing this proposal and I look forward to the eventual incorporation of these ideas into the Keys to Soil Taxonomy. Humans shape soils like no other force.
 
-Much of my commentary pertains to hazic materials concept. I have no objections to the artifactic epipedon as described – it has several avenues into it, but the variety of HAHT soils necessitates this. 
+Much of my commentary pertains to Hazic materials concept. I have no objections to the artifactic epipedon as described – it has several avenues into it, but the variety of HAHT soils necessitates this. 
 
 I reviewed the sub-proposals as needed to understand the proposed Keys but did not evaluate extensively. On the surface, most of the proposed changes looked well thought out, but evaluating their impact requires progress on the higher level components of the proposal.
 
@@ -23,7 +24,7 @@ While references were provided and brief explanations were given, I would rather
 
 On that same note, despite some mention of existing series concepts that would fit the new taxa, no pedon or component data or even acreage impact estimates were shown in the proposal – which was a major, but not uncommon, shortcoming.
 
-Time and time again, you will see my thing is soil materials based criteria. I think the criteria related to hazic material definition should be evaluated. I am not convinced that the diverse criteria proposed will support an unambiguous definition of the materials involved.
+Time and time again, you will see my thing is soil materials based criteria. I think the criteria related to Hazic material definition should be evaluated. I am not convinced that the diverse criteria proposed will support an unambiguous definition of the materials involved.
 
 ## Comments on Hazic materials / spatial overlay of site properties for the purposes of soil classification
 
@@ -53,31 +54,31 @@ The use of spatial layers / construction data / EPA determinations / chemical an
 
 From my perspective, we rarely, if ever, have the data required for adequate geostatistical treatment of contamination data. Even if we do know what the threshold for “elevated concentration” is – there is a lot of potential error to come from a poorly developed kriging/hyperspectral map “hardened” to a spatial location using a crisp probability of 0.5.
 
-I worry about explicitly encoding too many “open to interpretation”/unstable short circuits/criteria (separated by OR) into hazic material definition. Can we rely on soil survey standards and protocol to deal with estimating spatial distribution for contamination risk assessment under these open-ended conditions?
+I worry about explicitly encoding too many “open to interpretation”/unstable short circuits/criteria (separated by OR) into Hazic material definition. Can we rely on soil survey standards and protocol to deal with estimating spatial distribution for contamination risk assessment under these open-ended conditions?
 
-The author’s effort to include a variety of lines of evidence for supporting hazic materials is well intentioned and reflective of the variety of data sources that soil scientists need to synthesize to make our products. I am cautiously supportive of the proposed >50% probability of exceeding some concentration threshold – it makes sense – but defining the thresholds and data quality will be key.
+The author’s effort to include a variety of lines of evidence for supporting Hazic materials is well intentioned and reflective of the variety of data sources that soil scientists need to synthesize to make our products. I am cautiously supportive of the proposed >50% probability of exceeding some concentration threshold – it makes sense – but defining the thresholds and data quality will be key.
 
 ## Comments on Garbage v.s. Hazic materials concept in the Factarts
 
-It seems that “garbage” is explicitly included in the hazic materials definition – but hazic materials are only used as a criterion for the Wastifactarts.
+It seems that “garbage” is explicitly included in the Hazic materials definition – but Hazic materials are only used as a criterion for the Wastifactarts.
 
- - Factarts key ordering would suggest that Garbi- and Manu- great groups could contain garbage that classifies as hazic materials. But, as defined, the first two taxa do not require hazic materials. This seems intentional but might require more justification since the potential mixing of non-hazic and hazic soils within higher order taxa seems like something to be avoided. If all garbage containing soils are/should be hazic – make sure the hazic definition reflects that.
+ - Factarts key ordering would suggest that Garbi- and Manu- great groups could contain garbage that classifies as Hazic materials. But, as defined, the first two taxa do not require Hazic materials. This seems intentional but might require more justification since the potential mixing of non-Hazic and Hazic soils within higher order taxa seems like something to be avoided. If all garbage containing soils are/should be Hazic – make sure the Hazic definition reflects that.
 
- - Based on my understanding, garbage usually is, but is not guaranteed to be, hazic. In lieu of lab data, the 35% volume threshold would become quite important for hazic/non-hazic as defined.
+ - Based on my understanding, garbage usually is, but is not guaranteed to be, Hazic. In lieu of lab data, the 35% volume threshold would become quite important for Hazic/non-Hazic as defined.
 
 Garbifactarts versus Manufactarts These great groups are distinguished based on:
 
-  1) “garbage, waste, trash, or refuse” content (~approximately hazic materials)
+  1) “garbage, waste, trash, or refuse” content (~approximately Hazic materials)
 
   2) whether they are “lined” or “unlined” (within 200cm; landfill deposits)
 
 Suggestions:
 
-1. Garbage-containing soils should be Manufactarts if they have a manufactured layer within 200cm, Wastifactarts if the garbage is hazic, and Other Factarts if non-hazic.
+1. Garbage-containing soils should be Manufactarts if they have a manufactured layer within 200cm, Wastifactarts if the garbage is Hazic, and Other Factarts if non-Hazic.
 
  - Garbifactarts go away – as well as all discussion of “garbage” and “landfills” in Keys.
 
- - Lean on definition of hazic materials and the Wastifactarts to capture: the soil properties of “landfills”, “garbage” and other potentially noxious waste materials.
+ - Lean on definition of Hazic materials and the Wastifactarts to capture: the soil properties of “landfills”, “garbage” and other potentially noxious waste materials.
 
 2. I like the Capic subgroup in Garbifactarts – why was this not used elsewhere? There are currently no other constraints / subdivisions of these taxa on where the artifactic horizon occurs in the profile – but I can see it affecting interpretations / exposure to toxicity.
 
@@ -85,13 +86,13 @@ Suggestions:
  
  - I see no need to limit this Great Group to “collection areas” (subjective); presence of the manufactured layer and artifactic horizon is enough
  
- - Hazic Manufactarts capture the hazardous (hazic) soil materials with a manufactured layer
+ - Hazic Manufactarts capture the hazardous (Hazic) soil materials with a manufactured layer
  
  - I am presuming the artifactic must occur above the manufactured layer – the text of the proposal somewhat suggests this but the key itself is not explicit
 
  - Consider “Leptic” subgroup for ~<100cm to RLL? Or is shallow family / 50cm enough? The Epiaquarts use “Antirhyzic” for <100 which has an interesting ring to it, but I am not a fan of new terms when we have existing concepts that capture this more generally 
 
- - Wastifactarts capture the hazardous (hazic) soil materials without a manufactured layer
+ - Wastifactarts capture the hazardous (Hazic) soil materials without a manufactured layer
 
  - Other Factarts: If the “garbage” is innocuous the soils can key out in Psammi/Humi/Porti (Haplo)
 

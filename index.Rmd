@@ -1,5 +1,5 @@
 --- 
-title: "Updates to Soil Taxonomy Book"
+title: "2020 Updates to Soil Taxonomy Book"
 author: "Andrew G. Brown"
 date: "`r Sys.Date()`"
 output: pdf_document
@@ -17,11 +17,13 @@ biblio-style: apalike
 
 # Purpose
 
+**NOTE: This is a work in progress and has not yet been extensively peer-reviewed. These are the thoughts and professional opinions of one soil scientist following conversations among the Western Regional National Cooperative Soil Survey Standards Committee. The recommendations made here are my personal recommendations, not the consensus of the committee. Please contact andrew.g.brown@usda.gov with comments, questions or criticism. The Western Regional Taxonomy Committee recommendations are detailed in _[this document](https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1625614&ext=pdf)_**
+
 Pedologic knowledge has been hard won through the work of countless soil and earth scientists. This knowledge been distilled into standards and classification systems that allow us to consistently reason over diverse and complex natural systems.
 
 As new needs arise and knowledge is gained, criteria for classification and separation of concepts are refined and historic criteria are called in to question. Determining potential impacts of new or altered criteria throughout a classification system is complicated and time-consuming – perfect for the application of computer-aided reasoning. However, soils data and soil classification systems, particularly U.S. Soil Taxonomy, have nuances that require careful consideration.
 
-Changes to criteria that affect fundamental diagnostic features in Soil Taxonomy can have large influences on classification and, by association, grouping of soil concepts that are similar for use and management in soil surveys. We have developed data structures and computer code in the R package “aqp," or Algorithms for Quantitative Pedology, that are capable of reasoning over soil profile data and criteria. This implementation of concepts has offered novel opportunities for data-driven analyses relating properties (predicted or observed) to taxonomic or interpretive groups. Routines for programmatic identification of soil features such as argillic horizons and mollic epipedons are fundamental steps towards automated classification using U.S. Soil Taxonomy.
+Changes to criteria that affect fundamental diagnostic features in Soil Taxonomy can have large influences on classification and, by association, grouping of soil concepts that are similar for use and management in soil surveys. We have developed data structures and computer code in the R package “aqp," or Algorithms for Quantitative Pedology, that are capable of reasoning over soil profile data and criteria. This implementation of concepts has offered novel opportunities for data-driven analyses relating properties (predicted or observed) to taxonomic or interpretive groups. Routines for programmatic identification of soil features such as Argillic Horizons and Mollic Epipedons are fundamental steps towards automated classification using U.S. Soil Taxonomy.
 
-This book is a reproducible and open source implementation of the types of logic required to evaluate significant changes to the taxonomic system.
+This book is a reproducible and open source implementation of the types of logic required to evaluate significant changes to the taxonomic system. Where proposals were specific enough to encode and begin to make comparisons, examples of those analyses are included.
 
