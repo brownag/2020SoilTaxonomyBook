@@ -1,0 +1,32 @@
+# Proposal to Establish the Tenumollic Epipedon
+(2/6/20; PDF; 278 KB)
+
+## Recommendation
+
+**Recommendation:** Reject (2020/04/21)
+
+Following the changes to minimum thickness of the mollic epipedon proposed in the Simplifying Mollic Epipedon proposal, a tenumollic epipedon was developed for cases where thin (<25cm thick) mollic materials directly overlie a root-limiting layer. The authors suggest that this will help account for eliminating the 10cm over root-limiting layer, and 18 - 25cm sliding scale thickness. 
+
+However, only a small fraction of Mollisols who previously met thickness criteria, but utilized the sliding scale thickness requirement, would be retained in a single taxonomic group under proposed new criteria – even with this new epipedon. Redefining something at a high level that traditionally is more along the lines of series criteria is a bit of a problem for re-correlation. 
+
+The tenumollic epipedon does little to buffer the effects of the proposed changes in the parallel proposal to “Simplify the Mollic Epipedon”. In some cases, the combination of the two splits existing series concepts at the suborder or even order level.
+
+The combination of changes in thickness and material requirements, as well non-specific changes being made to the Mollisols key (is this at the Great Group or the Suborder level?) results in mostly hard-to-resolve correlation problems. It is not clear that the new taxa based on this epipedon would offer any significant interpretive benefit over the Lithic subgroups or shallow families that already are correlated within the Mollisols. 
+
+To push this a bit further: it’s not clear (from points made in the proposal) why these very shallow soils should be Mollisols at all. If you are establishing a new suborder, the burden is on you to justify this. This strikes me as somewhat odd, as a lot of the Mollic simplifications argued for removing criteria with historical precedent -- this particular one seems like the easiest to do away with, conceptually.
+
+## Suggestions
+
+I would encourage the authors to push for better distinction of shallow versus very shallow soils at the series/component level; historically, perhaps due to shortcomings in the taxonomy, or natural facets of landscape variability, that distinction has not been clear enough for the Tenumollic to drop in cleanly with existing mapping.
+
+If the change in taxonomy amounts to simply a high-level re-spelling of a portion of existing lower-level taxonomic concepts -- without added benefit in terms of being able to separate dissimilar soils -- or worse, obscuring a historic meaning or implied range in characteristics – it, in my opinion, does not likely serve much use to the process of making and interpreting soil surveys. 
+
+I am suggesting that this proposal be rejected. The thickness criteria for mollic epipedons could be substantially simplified without altering the underlying meaning or adding new high-level distinctions in the Mollisols key. Simplifications to the thickness requirements of the Mollic epipedon should not require the creation of a new epipedon. 
+
+## An investigation into OSD Typical pedons
+
+What follows is an investigation of some series concepts in MLRAs 18 and 22A where the OSD Typical Pedon had a bedrock contact within 25cm and taxonomy Haploxerolls or Haplocryolls. 
+
+Taxonomic changes equate to correlation decisions that would need to be resolved if the proposed changes were implemented. The discussion demonstrates the types of changes that might occur for a limited extent (two MLRAs) – but the process could be expanded nationwide given time and resources
+
+TODO: EXPAND

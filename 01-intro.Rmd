@@ -1,0 +1,41 @@
+# Introduction {#intro}
+
+## Background
+
+Andrew G. Brown is a soil scientist in the Sonora, CA MLRA Soil Survey office. His area of responsibility is in the Sierra Nevada Foothills & Mountains (MLRAs 18 & 22A). This is a minimal example using the **bookdown** package [@R-bookdown], which was built on top of R Markdown and **knitr** [@xie2015]. Each chapter corresponds to a proposal to the National Cooperative Soil Survey Standards Committee.
+
+Andrew has served on the Western Region National Cooperative Soil Survey (NCSS) Regional Standards Committee in the past two cycles. The regional committees are tasked with evaluating proposals to identify impacts and provide feedback at the local to regional level. In reviewing these proposals, Andrew not only represents his local interests, but serves as a representative for the Southwest Soil Survey Region.
+
+The following link contains this year's proposals in PDF format: [2020 NCSS Regional Standards and Taxonomy Committee Proposals](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/partnership/ncss/?cid=nrcseprd1522014)
+
+## Goals
+
+Help Soil Taxonomy and the data structures soil scientists use within the NCSS rise to the increasingly data-driven demands of our day.
+
+We can elevate the quality of discourse surrounding fundamental changes to Soil Taxonomy by novel analysis of existing concepts and data. Andrew hopes that individuals who are interested in making future proposals take note of the types and kinds of investigations that are possible with modern tools. By making his analyses freely available (released under GNU GPL) he hopes others will customize for their own regions, interests, or criteria.
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+
+<!--You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+
+Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
+
+```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
+# par(mar = c(4, 4, .1, .1))
+# plot(pressure, type = 'b', pch = 19)
+```
+
+Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
+
+```{r nice-tab, tidy=FALSE}
+# knitr::kable(
+#   head(iris, 20), caption = 'Here is a nice table!',
+#   booktabs = TRUE
+# )
+```
+-->

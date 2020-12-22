@@ -1,0 +1,104 @@
+# Artifact Soils / Artesols Order 
+(2/6/20; PDF; 525 KB)
+
+## Recommendation
+
+**Recommendation:** Return to authors (2020/03/17)
+
+I think that it is exciting to be reviewing this proposal and I look forward to the eventual incorporation of these ideas into the Keys to Soil Taxonomy. Humans shape soils like no other force.
+
+Much of my commentary pertains to hazic materials concept. I have no objections to the artifactic epipedon as described – it has several avenues into it, but the variety of HAHT soils necessitates this. 
+
+I reviewed the sub-proposals as needed to understand the proposed Keys but did not evaluate extensively. On the surface, most of the proposed changes looked well thought out, but evaluating their impact requires progress on the higher level components of the proposal.
+
+## On use of surrogate spatial data
+
+The author of the proposal included several suggestions on using novel data sources/analyses/models to support classification decisions. 
+
+This is an interesting avenue to discuss -- as in practice we have to make inferences about criteria we don’t have data for -- and new demands on soil survey have necessitated new data (particularly spatial data and "continuous" rasters). 
+
+While references were provided and brief explanations were given, I would rather see some demonstrations of the procedures with real data for this proposal.
+
+## On example data (not) provided by the authors
+
+On that same note, despite some mention of existing series concepts that would fit the new taxa, no pedon or component data or even acreage impact estimates were shown in the proposal – which was a major, but not uncommon, shortcoming.
+
+Time and time again, you will see my thing is soil materials based criteria. I think the criteria related to hazic material definition should be evaluated. I am not convinced that the diverse criteria proposed will support an unambiguous definition of the materials involved.
+
+## Comments on Hazic materials / spatial overlay of site properties for the purposes of soil classification
+
+I think overlay of spatial maps of external, non-specific soil or site conditions should rarely, if ever, be used in classifying a particular pedon/component – at least in terms of the way the criteria are written in the keys.
+
+By "external" I mean EPA contaminated lands maps, vector extents of superfund sites, surficial geology maps or any other "categorical" determination that could be portrayed with one or more polygons – but might not reflect the granularity of a point _soil_ observation.
+
+Such sources certainly provide supporting documentation about extent of a soil concept – but ultimately the classification of the concept should be based on decisions about the dominant conditions of _soil properties_ -- in the _relevant control sections_ -- for that component.
+
+The use of spatial layers / construction data / EPA determinations / chemical analysis etc. could facilitate the definition of lined/capped landfill, unlined landfill, non-landfill, contaminated areas – which surely would be a major factor in mapunit design/delineation. But there is a scale mismatch between these external layers and an individual soil component.
+
+- While I am against encoding the use of external layers/determinations directly in the Keys criteria, we regularly do this type of “spatial overlay logic” for mapping of concepts like moisture and temperature regime. The fact that inconsistent external sources are not specifically encoded in the Keys is a benefit, not a drawback.
+
+## On the Soil Moisture/Temperature regime analogy
+
+- No doubt there are aspects to be desired RE: SMR and STR – but to their credit … they are connected to soil properties
+
+   - i) SMR: the moisture status over a particular depth and time interval
+
+   - ii) STR: the annual average thermal condition of the soil at a particular depth
+
+- We have soil properties in the Keys definition -- even though we might use something like PRISM mean annual air temperature or nearest weather stations to infer the spatial distributions based on a modeled relationship.
+
+- To the authors credit, they encourage developing thresholds and geospatial models from data – even if the model is “bad” at least the process would be documented/reproducible and could be repeated if new data were obtained.
+
+## Comments on Analytical Demands of Hazic Materials
+
+From my perspective, we rarely, if ever, have the data required for adequate geostatistical treatment of contamination data. Even if we do know what the threshold for “elevated concentration” is – there is a lot of potential error to come from a poorly developed kriging/hyperspectral map “hardened” to a spatial location using a crisp probability of 0.5.
+
+I worry about explicitly encoding too many “open to interpretation”/unstable short circuits/criteria (separated by OR) into hazic material definition. Can we rely on soil survey standards and protocol to deal with estimating spatial distribution for contamination risk assessment under these open-ended conditions?
+
+The author’s effort to include a variety of lines of evidence for supporting hazic materials is well intentioned and reflective of the variety of data sources that soil scientists need to synthesize to make our products. I am cautiously supportive of the proposed >50% probability of exceeding some concentration threshold – it makes sense – but defining the thresholds and data quality will be key.
+
+## Comments on Garbage v.s. Hazic materials concept in the Factarts
+
+It seems that “garbage” is explicitly included in the hazic materials definition – but hazic materials are only used as a criterion for the Wastifactarts.
+
+ - Factarts key ordering would suggest that Garbi- and Manu- great groups could contain garbage that classifies as hazic materials. But, as defined, the first two taxa do not require hazic materials. This seems intentional but might require more justification since the potential mixing of non-hazic and hazic soils within higher order taxa seems like something to be avoided. If all garbage containing soils are/should be hazic – make sure the hazic definition reflects that.
+
+ - Based on my understanding, garbage usually is, but is not guaranteed to be, hazic. In lieu of lab data, the 35% volume threshold would become quite important for hazic/non-hazic as defined.
+
+Garbifactarts versus Manufactarts These great groups are distinguished based on:
+
+  1) “garbage, waste, trash, or refuse” content (~approximately hazic materials)
+
+  2) whether they are “lined” or “unlined” (within 200cm; landfill deposits)
+
+Suggestions:
+
+1. Garbage-containing soils should be Manufactarts if they have a manufactured layer within 200cm, Wastifactarts if the garbage is hazic, and Other Factarts if non-hazic.
+
+ - Garbifactarts go away – as well as all discussion of “garbage” and “landfills” in Keys.
+
+ - Lean on definition of hazic materials and the Wastifactarts to capture: the soil properties of “landfills”, “garbage” and other potentially noxious waste materials.
+
+2. I like the Capic subgroup in Garbifactarts – why was this not used elsewhere? There are currently no other constraints / subdivisions of these taxa on where the artifactic horizon occurs in the profile – but I can see it affecting interpretations / exposure to toxicity.
+
+ - Manufactarts would key out first among Factarts for manufactured layer within 200cm (root /water restrictive within current purview of Soil Survey) and artifactic horizon.
+ 
+ - I see no need to limit this Great Group to “collection areas” (subjective); presence of the manufactured layer and artifactic horizon is enough
+ 
+ - Hazic Manufactarts capture the hazardous (hazic) soil materials with a manufactured layer
+ 
+ - I am presuming the artifactic must occur above the manufactured layer – the text of the proposal somewhat suggests this but the key itself is not explicit
+
+ - Consider “Leptic” subgroup for ~<100cm to RLL? Or is shallow family / 50cm enough? The Epiaquarts use “Antirhyzic” for <100 which has an interesting ring to it, but I am not a fan of new terms when we have existing concepts that capture this more generally 
+
+ - Wastifactarts capture the hazardous (hazic) soil materials without a manufactured layer
+
+ - Other Factarts: If the “garbage” is innocuous the soils can key out in Psammi/Humi/Porti (Haplo)
+
+## Portifactarts and Portortharts –
+
+- Other soils – why not Haplofactarts and Haplortharts? 
+
+Simpler and keeps parity with other taxa. The Port- formative element makes sense but I’m not keen on it for these cases where the taxon is the last Great Group in a Suborder key. 
+
+Again, stick to tradition rather than introducing new terms that are used similarly to other concepts in the Keys.

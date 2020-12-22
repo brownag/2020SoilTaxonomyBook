@@ -1,0 +1,68 @@
+# Proposed Changes to Thapto-Histic Subgroups and Adding Thapto-Humic Criteria 
+(5/4/20; PDF; 1.16 MB)
+
+## Recommendation
+
+**Recommendation:** Return to authors (2020/05/04)
+
+The authors provide excellent overview, argument and examples of where these new subgroups could be used, key criteria and discuss the important soil conditions that they will capture. 
+
+I support the addition of these subgroups in limited circumstances, but I have several points I would like to see clarified pertaining to: master horizon designation logic, organic carbon thresholds, minimum thickness for Thapto-Humic criterion #2, Great Groups/spatial extent affected and relative position within Subgroup-level Keys.
+
+## Master Horizon Designation Logic
+
+There is a strong historical precedent for keeping horizon designation logic out of the Keys. Relying on diagnostic horizons, and then secondarily on related properties, is the way to go. Buried, dark-colored horizons (moist value <= X; Holocene OC > Y) is descriptive enough of the soil materials being classified – though I wonder about including a dry value requirement to enhance estimation of OC from color.
+
+ - A dark colored, carbon-rich “C” horizon, that perhaps was not identified as a “buried A” specifically, should classify the same as an Ab horizon – if it meets the color and carbon requirements. 
+
+ - Mollic subgroups in the Xeralfs use similar less-restrictive-than-epipedon color and carbon criteria – with no limitations on horizon designations comprising the interval of interest.
+
+**The revisions I request for this point are minor:**
+
+ - Proposed: Thapto-Humic: Soils with one or both of the following: 1. Have a buried layer that meets criteria for a Histic, Mollic, Umbric, or Melanic epipedon within 200 cm of the soil surface; or 2. Combined thickness of all buried O and dark colored A horizons (moist value ≤3) with ≥1.0% Holocene age organic carbon, is 20 cm or more thick within 200 cm of the soil surface. (See Figs. 2,3)
+
+## Justification for organic carbon threshold & cumulative thickness in Thapto-Humic criterion 2
+
+I want to see justification for use of organic carbon content greater than 1.0% and cumulative thickness >20cm. Explain why 1% rather than, for instance, the minimum value required for the various mineral epipedons (0.6%) or Fluv* (0.2/0.3%). I understand it may need to be higher – but explain why.
+
+ - Is there a potential gap between criterion 1 and criterion 2 for Thapto-Humic as a result of a different carbon criteria? 
+
+ - Same carbon content threshold as epipedon would better capture the things that didn’t meet criteria for an epipedon. And would reflect more storage than Fluv* -- though that would be better captured with carbon stock calculation like the Humults.	Less thresholds to remember – we already have too many as it is -- see Mollic Haploxeralfs [0.7], for instance and differences between Fluv subgroups.
+
+ - Would 1% threshold work as well in all systems (i.e. in hotter, drier climates; non-Aquic SMR; non-Aquic soil moisture subclass)? 
+
+ - Currently Thapto-Histic are limited to Entisols and Aquolls – which narrows their scope considerably to landforms where carbon is naturally elevated. I would like to see data and examples from less-wet areas used in developing the OC and thickness thresholds (if the scope is being expanded out of wet/floodplain soils). Much of the authors justification for the changes/examples are in floodplains, so I imagine they primarily want to these concepts for those areas.
+
+## Great Groups 
+
+The authors mention four orders (Entisols, Inceptisols, Mollisols, Andisols) – but all the series-level examples are Aquic or Udic. I think to be complete a proposal needs to point out specifically where within the key to subgroups of each Great Group these criteria will be inserted. This is necessary for regions to be able to properly evaluate the impact of this proposal on their area of responsibility.
+
+## Impact of proposed changes
+
+Authors give some information on extent of currently mapped Thapto-Histic, but do not estimate how much extent will increase. If new taxa were limited to certain moisture regimes (i.e. where you have examples/data) then this question is a bit more tractable.
+
+Based on the examples given, and lack of constraints on where they will be added in the Key, the increase could be very significant – but possibly hard to characterize due to the uncertainty in properties >100cm depth (in existing datasets).
+
+The Thapto-Humic could potentially be even more extensive than Thapto-Histic as it does not require organic soil materials, buried diagnostic features or vertical continuity of organic-rich layers. 
+
+## Relative order of Subgroup Keys
+
+RE: adding new taxa “before Fluventic or Fluvaquentic criteria” 
+
+I think it is important that you specify where these taxa will be added in each Subgroup Key, for each Great Group.
+
+For instance, in the Haplocryolls subgroup key (p220, KST 12th ed), Andic/Vitrandic, Aquic Cumulic and Cumulic key out before Fluvaquentic. Soils meeting Thapto-Humic and Thapto-Histic likely would key out as something-Cumulic if subgroups were added before Fluvaquentic. Fluvaquentic keys out before Aquic, Oxyaquic, Calcic Pachic, and Pachic – which all precede Fluventic.
+
+The placement of these new taxa with respect to soil moisture (sub)classes is critically important, based on authors own explanations. One could make an argument for putting Thapto* after Vertic – but there are several taxa that could be in use already, capturing related properties in the places where these new taxa would occur.
+
+ - Thapto-Histic: thick (>40cm) buried organic soil materials 
+ 
+ - Thapto-Humic: buried organic-rich soil materials (>20cm cumulative thickness)
+ 
+ - Andic/Vitrandic: low bulk density/ashy surface 
+ 
+ - Aquic Cumulic/Fluvaquentic/Aquic: aquic conditions within 100cm 
+ 
+ - Cumulic/Fluventic: slope <25%: irregular decrease in Holocene-age OC 
+ 
+ - Pachic/Cumulic: thick dark surface 
